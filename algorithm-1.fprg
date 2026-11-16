@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="algorithm-1"/>
+        <attribute name="authors" value="s-4b29b481"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-11-16 10:46:24 "/>
+        <attribute name="created" value="cy00YjI5YjQ4MTtQQy0wMjsyMDI2LTExLTE2OyIxMDozNzoyNyAiOzIxNTY="/>
+        <attribute name="edited" value="cy00YjI5YjQ4MTtQQy0wMjsyMDI2LTExLTE2OyIxMDo0NjoyNCAiOzE7MjI2MQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;&#1076;&#1086;&#1084;&#1084;&#1084;&#1086;&#1086;&#1086;&#1086;&#1086;&#1086;&#1081; &#1093;&#1086;&#1095;&#1095;&#1095;&#1095;&#1091;&#1091;&#1091;&#1091;&#1091;&#1091;&#1091;&quot;" newline="True"/>
+            <output expression="&quot; &#1076;&#1086;&#1084;&#1084;&#1084;&#1084;&#1084;&#1084;&#1086;&#1086;&#1086;&#1086;&#1086;&#1081;&#1081;&#1081;&#1081;&#1081;&#1081;&#1081;&#1081;&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
